@@ -6,7 +6,7 @@
 
 
 > ❖ **`আপনার মেসেঞ্জারকে নিয়ে যান আরও এক ধাপ উপরে!
-আরও স্মার্ট, সহজ ও আধুনিক Messenger Experience-এর জন্য ব্যবহার করুন SHAHADAT CHAT BOT — আপনার মেসেঞ্জারের জন্য একটি Powerful Multi-Device Bot!`**
+আরও স্মার্ট, সহজ ও আধুনিক Messenger Experience-এর জন্য ব্যবহার করুন 😈𝄟≛⃝নঁকঁলঁ≛⃝বঁটঁ𝄟😈 — আপনার মেসেঞ্জারের জন্য একটি Powerful Multi-Device Bot!`**
 
 </div>
 
@@ -15,17 +15,17 @@
 </p>
 
 <p align="center">
-  <img src="./assets/logo.svg" width="100%" alt="SHAHADAT SAHU">
+  <img src="./assets/logo.svg" width="100%" alt="𝕸𝕯 𝕸𝖎𝖑𝖔𝖓 𝕾𝖆𝖗𝖐𝖆𝖗">
 </p>
 
 <p align="center" style="font-family: 'Segoe UI', sans-serif; font-weight: bold;">
   <span style="font-size: 32px; font-weight: 700; color:#00A8FF;">
-    SHAHADAT CHAT BOT
+    😈𝄟≛⃝নঁকঁলঁ≛⃝বঁটঁ𝄟😈
   </span>
   
 
   <span style="font-size: 22px; font-weight: 700; color:#FF8A00;">
-    Developed By SHAHADAT SAHU
+    Developed By 𝕸𝕯 𝕸𝖎𝖑𝖔𝖓 𝕾𝖆𝖗𝖐𝖆𝖗
   </span>
 </p>
 
@@ -117,7 +117,7 @@ jobs:
 আপনার বট ফাইলগুলো যেখানে আছে সেই ফোল্ডারে যান:
 
 ```bash
-node Sahu.js
+node Milon.js
 ```
 
 ---
@@ -236,16 +236,16 @@ module.exports.config = {
 
 ---
 
-## 👨‍💻 Developer
+## 👨‍💻 Owner
 
 <div align="center">
 
 | তথ্য | বিবরণ |
 | :--- | :--- |
-| **Name** | **SHAHADAT SAHU** |
-| **Age** | 18+ |
-| **Location** | KHAGRACHARI, BANGLADESH |
-| **Role** | STUDENT • DEVELOPER |
+| **Name** | **Milon** |
+| **Age** | **23+** |
+| **Location** | **kurigram, BANGLADESH** |
+| **Role** | **Job • privet company** |
 
 </div>
 
@@ -253,7 +253,7 @@ module.exports.config = {
 
 > 💻 আমি কোনো প্রফেশনাল প্রোগ্রামার নই।  
 > আমি প্রোগ্রামিং করতে ভালো লাগে, তাই বন্ধুদের কাছ থেকে হেল্প নিয়ে এবং AI Tools-এর সহায়তায়  
-> বিভিন্ন রকমের Project, Chatbot ও নতুন নতুন Technology Develop করতে পছন্দ করি।
+> বিভিন্ন রকমের Project, Chatbot ও নতুন নতুন Technology Develop করতে পছন্দ করি। **Original Owner Sahadat Sahu**
 
 **Interests:**
 
@@ -267,14 +267,14 @@ module.exports.config = {
 
 <p>
   <b>Facebook</b>    
-  <a href="https://facebook.com/100044713412032">
+  <a href="https://facebook.com/61593943674779">
     <img src="https://img.shields.io/badge/CLICK%20NOW-1877F2?style=for-the-badge&logo=facebook&logoColor=white" width="150" alt="Facebook">
   </a>
 </p>
 
 <p>
   <b>Messenger</b>  
-  <a href="https://m.me/100044713412032">
+  <a href="https://m.me/61593943674779">
     <img src="https://img.shields.io/badge/MESSAGE%20ME-0084FF?style=for-the-badge&logo=messenger&logoColor=white" width="150" alt="Messenger">
   </a>
 </p>
@@ -333,7 +333,7 @@ module.exports.config = {
 
 <div align="center">
 
-💖 **𝗦𝗵𝗮𝗵𝗮𝗱𝗮𝘁 𝗖𝗵𝗮𝘁 𝗕𝗼𝘁** বেছে নেওয়ার জন্য ধন্যবাদ!
+💖 **😈𝄟≛⃝নঁকঁলঁ≛⃝বঁটঁ𝄟😈** বেছে নেওয়ার জন্য ধন্যবাদ!
 
 🗓️ **Release Date: 11/08/2025 at 02:00**
 
