@@ -253,7 +253,8 @@ module.exports.config = {
 
 > 💻 আমি কোনো প্রফেশনাল প্রোগ্রামার নই।  
 > আমি প্রোগ্রামিং করতে ভালো লাগে, তাই বন্ধুদের কাছ থেকে হেল্প নিয়ে এবং AI Tools-এর সহায়তায়  
-> বিভিন্ন রকমের Project, Chatbot ও নতুন নতুন Technology Develop করতে পছন্দ করি। **Original Owner Sahadat Sahu**
+> বিভিন্ন রকমের Project, Chatbot ও নতুন নতুন Technology Develop করতে পছন্দ করি। **Original fork Owner: Sahadat Sahu**
+> **Bot Owner: Md Milon Sarkar**
 
 **Interests:**
 
@@ -281,7 +282,7 @@ module.exports.config = {
 
 <p>
   <b>WhatsApp</b>    
-  <a href="https://wa.me/01882333052">
+  <a href="https://wa.me/+8801882333052">
     <img src="https://img.shields.io/badge/CHAT%20NOW-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" width="150" alt="WhatsApp">
   </a>
 </p>
@@ -297,7 +298,7 @@ module.exports.config = {
   <a href="https://wa.me/+8801882333052?text=Assalamualaikum%20Admin%20SHAHADAT%20SAHU%20Need%20Help%20Please%20Brother%20🫶">
     <img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
   </a>
-  <a href="https://m.me/100044713412032">
+  <a href="https://m.me/61593943674779">
     <img alt="Messenger" src="https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white">
   </a>
 </p>
@@ -313,7 +314,7 @@ module.exports.config = {
   
 
 
-  <a href="https://m.me/j/AbZDGjBnHV0-K5sD/?send_source=gc%3Acopy_invite_link_t">
+  <a href="https://m.me/61593943674779/?send_source=gc%3Acopy_invite_link_t">
     <img alt="Messenger Support" src="https://img.shields.io/badge/Messenger%20Support-Join%20Now-0084FF?style=for-the-badge&logo=messenger&logoColor=white">
   </a>
 </p>
@@ -343,7 +344,7 @@ module.exports.config = {
 
 
 <p align="center">
-  <a href="https://gitlab.com/shahadat-sahu">
+  <a href="hhttps://github.com/Milon212-cpu/Milon--322.git">
     <img src="https://cdn.simpleicons.org/gitlab/FC6D26" width="48" alt="GitLab">
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
