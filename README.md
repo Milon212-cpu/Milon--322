@@ -11,7 +11,7 @@
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=00A8FF&center=true&vCenter=true&width=500&lines=Assalamualaikum+Everyone!;Welcome+To+SHAHADAT+CHAT+BOT+Fork!" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=00A8FF&center=true&vCenter=true&width=500&lines=Assalamualaikum+Everyone!;Welcome+To+😈𝄟≛⃝নঁকঁলঁ≛⃝বঁটঁ𝄟😈!" />
 </p>
 
 <p align="center">
@@ -31,7 +31,7 @@
 
 <div align="center">
 
-  <img src="https://komarev.com/ghpvc/?username=shahadat-sahu&label=Fork%20Views&color=blueviolet&style=for-the-badge" alt="Fork Views">
+  <img src="https://komarev.com/ghpvc/?username=MD Milon-Sarkar&label=Fork%20Views&color=blueviolet&style=for-the-badge" alt="Fork Views">
   <a href="https://gitlab.com/shahadat-sahu/SHAHADAT-CHAT-BOT">
     <img src="https://img.shields.io/badge/ORIGINAL%20REPOSITORY-black?style=for-the-badge&logo=github&logoColor=white" alt="Original Repo">
   </a>
